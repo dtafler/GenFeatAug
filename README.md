@@ -45,3 +45,4 @@ Use the trained CVAE to produce a entirely artificial dataset of features with a
 The code to run the experiments from the [thesis](./background/thesis.pdf) (Section 4), can be found in the [experiments](./experiments/) directory.
 
 ## License
+This project is licensed under the [MIT License](LICENSE). Portions of this project are based on the Classifier-Balancing software, which is licensed under the [BSD License](NOTICE).
