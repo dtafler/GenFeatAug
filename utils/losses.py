@@ -1,6 +1,7 @@
 import torch
 import torch.nn.functional as F
 from torch import nn
+from balanced_loss import Loss
 
 
 def balanced_softmax_loss(logits, labels, sample_per_class, reduction='mean'):
